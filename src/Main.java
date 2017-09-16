@@ -3,10 +3,10 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		
 		//You may test that your code works find here
 		//Please check that your code works and has no 
 		//compilation problems before to submit
+		
 		
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter no of students");
@@ -48,10 +48,10 @@ public class Main {
 		for(int i=0;i<res2.length;i++)
 		{
 			System.out.println(res2[i].getId()+" "+res2[i].getFullName()+" "+res2[i].getBirthDate()+" "+res2[i].getAvgMark());
+		}*/
 		
 		
-		
-		}
 	}
+	
 
 }
